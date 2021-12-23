@@ -5,6 +5,8 @@ It is designed to be used with Klipper firmware using CAN bus or USB connection.
 Using CAN bus is it possible to chain many board using a pair of twisted wires for data and power.
 It is also a good solution to simplify the toolhead wiring as only one cable is needed.
 
+![Neptune toolboard top and bottom sides](assets/Neptune_top_bottom_V0.1.jpg)
+
 ## Features:
 
 * STM32F103 72MHz 32bits ARM MCU
